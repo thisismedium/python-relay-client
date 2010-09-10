@@ -3,6 +3,15 @@
 Use this client to add data to your relay from a Python process.  To
 get started, [create a relay][1] if you haven't already.
 
+## Install ##
+
+After downloading the source, simply:
+
+    cd python-relayio
+    python setup.py install
+
+## Example ##
+
 Go to your relay's console and find the "Post to URL" and "Insert Key"
 on the "Server-Side Insert" tab.  Then, add this to your program:
 
